@@ -1,0 +1,5 @@
+steps to opening divinity game (Jaden Chan)
+
+1. right click on divinity game zip folder
+2. extract here
+3. press on newtest.exe to launch the game
